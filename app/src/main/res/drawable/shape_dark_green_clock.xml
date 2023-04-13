@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--13 April 2023-->
+<!--10120212-->
+<!--Daffa Albari-->
+<!--IF-6-->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorDarkGreen" />
+    <corners
+        android:bottomLeftRadius="@dimen/_8sdp"
+        android:topLeftRadius="@dimen/_8sdp" />
+</shape>
